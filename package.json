@@ -1,11 +1,11 @@
 {
   "name": "xmler",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/ZJONSSON/xml2obj.git"
+    "url": "http://github.com/ZJONSSON/xmler.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
   "author": "Ziggy Jonsson (ziggy.jonsson.nyc@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "node-expat": "^2.3.13"
+    "node-expat": "^2.3.15"
   }
 }

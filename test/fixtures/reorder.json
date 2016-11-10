@@ -1,0 +1,10 @@
+{
+  "__attr__": {
+    "parent_property": "bar"
+  },
+  "child": {
+    "__attr__": {
+      "child_property": "foo"
+    }
+  }
+}
