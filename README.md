@@ -85,12 +85,43 @@ Using `.pipe(xmler('item'),{coerce:true})` will extract the same records.     Us
 
 ### Real life example
 
-This example streams information about all census products pipes the records into mongo (10 at a time)
+This example streams the full Open Streetmap XML for North America into JSON records:
 
+```js
+var request = require('request');
+var bz2 = require('unbzip2-stream');
+var etl = require('etl');
+var xmler = require('xmler');
+var fs = require('fs');
+
+// Keep track of linecount and report every second
+var count = 0;
+setInterval( () => console.log(count),1000);
+
+request('http://download.geofabrik.de/north-america-latest.osm.bz2')
+  .pipe(bz2())
+  .pipe(xmler(['node','way','relation']))
+  .pipe(etl.map(d => {
+    count++;
+    return JSON.stringify(d);
+  }))
+  .pipe(fs.createWriteStream('america.json'));
+ ```
+
+Same example with the records piped to mongo (bulk = 100 records at a time and max concurrent connections = 5)
+```js
+var mongo = require('mongodb');
+var collection = mongo.connect('mongodb://localhost:27017/osm')
+      .then(db => db.collection('osm'));
+
+request('http://download.geofabrik.de/north-america-latest.osm.bz2')
+  .pipe(bz2())
+  .pipe(xmler(['node','way','relation']))
+  .pipe(etl.map(d => {
+    count++;
+    d._id = d.attr.id;
+    return d;
+  }))
+  .pipe(etl.collect(100))
+  .pipe(etl.mongo.update(collection,['_id'],{upsert: true, concurrency: 5}));
 ```
-request.get('http://api.census.gov/data.xml')
-  .pipe(xmler('dct:dataset',{valuesOnly: true, mergeAttr: true}))
-  .pipe(etl.collect(10))  // collect 10 record at a time for bulkinsert
-  .pipe(etl.mongo.insert(collection))  // insert each bulk into mongo
-``
-
