@@ -1,0 +1,3631 @@
+{
+  "__attr__": {
+    "xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/"
+  },
+  "soapenv:Header": {
+    "__attr__": {}
+  },
+  "soapenv:Body": {
+    "__attr__": {},
+    "findInterminglingResponse": {
+      "__attr__": {
+        "xmlns": "http://www.ebay.com/marketplace/search/v1/services"
+      },
+      "ack": {
+        "__attr__": {},
+        "text": "Success"
+      },
+      "version": {
+        "__attr__": {},
+        "text": "1.1.0"
+      },
+      "timestamp": {
+        "__attr__": {},
+        "text": "2012-01-20T01:36:25.904Z"
+      },
+      "extension": {
+        "__attr__": {},
+        "id": {
+          "__attr__": {},
+          "text": "3"
+        },
+        "version": {
+          "__attr__": {},
+          "text": "1.0.0"
+        },
+        "contentType": {
+          "__attr__": {},
+          "text": "text/html"
+        },
+        "value": {
+          "__attr__": {},
+          "text": ">"
+        }
+      },
+      "resultSummary": {
+        "__attr__": {},
+        "matchCount": {
+          "__attr__": {},
+          "text": "118"
+        },
+        "abridgedMatchCount": {
+          "__attr__": {},
+          "text": "113"
+        },
+        "lastUpdateTime": {
+          "__attr__": {},
+          "text": "2012-01-19T18:36:02.000-07:00"
+        }
+      },
+      "intermingleRecord": [
+        {
+          "__attr__": {},
+          "productRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "81996414"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar (DVD, 2010)"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "78"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "4.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-19T21:01:14"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "13.5"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "34"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "3.96"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "44"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "http://i.ebayimg.com/22/!!d7WiF!EWM~$(KGrHqMOKikEvOnbKY1gBL9fO1lupQ~~_6.JPG?set_id=89040003C1"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "productRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "82093597"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar (Blu-ray/DVD, 2010, 2-Disc Set)"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "74"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "15.01"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-19T19:12:15"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "20.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "26"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "11.96"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "48"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "http://i.ebayimg.com/01/!!d8dfeQ!mM~$(KGrHqUOKjcEwhzOMI3VBMSIdcD!Yw~~_6.JPG?set_id=89040003C1"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "220931734658"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D BLU-RAY FACTORY SEALED -new,sealed-"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "70.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "79.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-19T19:15:14.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm86FNl5NfYQDIhtWAUiWbqQ"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "170763800829"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-ray Disc - BRAND NEW - FACTORY SEALED - PANASONIC EXCLUSIVE"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "61.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "74.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "4"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "300"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-19T19:51:57.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmJODPpMeeyd8FcfsNsrdYWA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "220931945435"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "New Sealed James Cameron's AVATAR 3D Blu-Ray Panasonic Exclusive PG-13 DVD RARE"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "61.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "14"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-19T21:19:51.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm4H_Y9vXU4EKx-f3wk3EF7A"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320829372998"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SEALED 3D Blu-ray Panasonic Exclusive \"AVATAR\" FAST FREE SHIPPING!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "89.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "98.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "399"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-19T21:53:36.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmcgSHPYl8Y2gPS8cJN-OcrA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "190628955236"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "NEW *Rare* AVATAR Blu-ray 3D Panasonic Exclusive *NOT SOLD IN STORES*"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "99.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "109.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T06:10:25.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm2CvUgNznvK-l0t-rZ3n4GQ"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "160718400852"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-Ray Panasonic Exclusive __ Unopened - Original factory shrink wrap"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "55.01"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "75.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "8"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T10:48:32.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmiTg55gmYOWAJ1XbSQ98ECA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "130632208352"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-Ray - Panasonic Exclusive (brand new, factory sealed)"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "62.85"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "94.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "12"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T13:52:56.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmtrdC17WyVHvvn_ZgWTXgiA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "230733466588"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Brand new Avatar 3d blu ray disc. Factory sealed (panasonic exclusive)"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "50.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "4"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T13:53:56.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmlZdHT_kLO9ggmFSsxS0QCA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320829809050"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-ray Panasonic Exclusive Sealed NEW"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "60.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T14:31:02.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmUBlLP2lRLEf0VBWm8ilplg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "130630659754"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D Blu-ray Brand New Factory Sealed (Original Panasonic Exclusive)"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "58.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "15"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T14:34:31.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm2MdiMGiOAE-0Qh8yDBew4g"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "150734718107"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-ray Brand New Factory Sealed Panasonic Exclusive"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "104.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "104.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "9"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "325"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "1690"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "-2147481648"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "16777216"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-02-09T17:00:38.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmVD9hFn5o8UG2kBlJRLDI4A"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "260937482985"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "BRAND NEW Avatar 3D Blu-Ray DVD - Sealed"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "70.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T20:25:55.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smn_b9xfCFZUjdMMzg6b5U_w"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "120843131441"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D blu ray disc factory sealed NIB 3 d version"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "51.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "3"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T20:30:19.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmRNvQVngyrAAzzicicxqF-g"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "330673600191"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D Blu Ray-Factory Sealed..FREE Shipping!!!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "49.95"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T21:51:58.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmuX1a85zuIEuO2Jv-BJzp0A"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "200700624127"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR, 3D, BLU RAY, BRAND NEW AND FACTORY SEALED"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "50.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-20T23:22:51.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmPCqKpN0DBoNqaMNhr3vO9Q"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "130632758842"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "3D Avatar Blue Ray Disk"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "75.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "90.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "300"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-21T15:27:37.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smff4598BYjt0QU3hnozg9qQ"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "180798514647"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar Blu-ray 3D Panasonic Exclusive - Sealed NEW"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "32.93"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "18"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "300"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "1000"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-21T15:43:43.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smt8taWyWmsG_Tw-zHfZUmHA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "380401406666"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D BLU-RAY MOVIE NEW EDITION --FACTORY SEALED !"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "95.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "95.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "11"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-02-09T08:43:23.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmipHloK8dVCLobrpiHi9soA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "120845197426"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu Ray Exlusive Factory Sealed Brand New"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "70.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "100.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T05:35:49.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmSjLcuOvW6zhwC5Lx1h5S-g"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320830894431"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR BLU-RAY 3D MOVIE; BRAND NEW, FACTORY SEALED"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "75.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T15:55:06.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmE7UPFuIq9m6x9xjY7QFbXg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "330672702076"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D BLU-RAY 3D - Brand New Unopened"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "60.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "100.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T16:25:14.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmN_U5mt-bejXAlAg-oekhYg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "220933768045"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Blue-ray 3D Avatar DVD, Brand New in Original Packaging, Never opened"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "39.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "8"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T16:58:20.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmZGHJZ-gikK2yYeIDhWxFvQ"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "170766321061"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D blu ray, exclusive Panasonic release. New sealed in hand. Great 3 D"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "43.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "85.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "6"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T17:26:33.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmnvAaEh-waB7BW4_CKGWdBQ"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300651900316"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR BLU-RAY 3D\"\" PANASONIC EXCLUSIVE NEW SEALED not found in stores"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "31.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "8"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T18:55:21.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmntGH04Op5W7KLFnYdvAeZA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "180798015096"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-ray Panasonic Exclusive, factory sealed, minor box defect."
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "49.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T19:53:02.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmeZSdGGu_jOcIPVFQpAVQFA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "160717564858"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D SEALED Blu-ray Panasonic Exclusive"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "31.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "12"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T20:07:34.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmiWNF8nl9ntob9GViXnyBBA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "220932049647"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D BLU-RAY~BRAND NEW~FACTORY SEALED IN SHRINK~PANASONIC PROMO EXCLUSIVE!!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "109.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "120.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T23:01:04.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmBH2AwKhfOLm0BP7eXlEhNA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "180800257998"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar Blu-Ray 3D Limited Release Promo Disc - Factory Sealed"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "89.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "89.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-26T10:27:27.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm0gVHFWw_MaLbyOMYjwaiog"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "120844739120"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu Ray Factory Sealed Incl. Two 3D Glasses !!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "79.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "13"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "-2147481148"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "268435456"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T09:38:20.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmbzRQ-rZ_MKXYvTkoispOVw"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "140683495269"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "New AVATAR Blu-ray 3D Panasonic Exclusive *NOT SOLD IN STORES*"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "32.91"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "99.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "2"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T15:02:11.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmZ4iQNLIAiTz0o_0j3bIW9w"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "170765774879"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-ray Panasonic Exclusive - Not available in stores!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "31.93"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "20"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T15:13:47.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmbSQ1lnQYPcCfvpfpvToS8A"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "180798565141"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-Ray - BRAND NEW and SEALED - Panasonic Exclusive 3 D BluRay"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "33.93"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "11"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T17:47:14.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmvZYYqQS_evOSt3pDfMno8Q"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "110810440275"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D Blu-ray Brand New Factory Sealed ñ FREE SHIPPING!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "58.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "22"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T17:57:52.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmBi99v66zqHKYkKvIAJ9pQA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "190628845216"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D Blu-Ray - Panasonic Exclusive - FACTORY SEALED - Free Shipping"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "31.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "6"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T19:51:19.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmE2rnqwwG4Ox7y9QPAZwmDA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320831486088"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-Ray NEW Factory Sealed - Panasonic Exclusive - FREE SHIPPING"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "50.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "2"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-23T21:10:17.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smp2gxOJCJH8Wm7P4n6akm1Q"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "260937208793"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "3D Avatar 3D Blu-ray 3D bluray 3D blu ray Brand new sealed NIB new in box"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "90.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "120.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "300"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "200"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "500"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-24T09:58:40.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmKwKZry-47DifBrUXtAjLIA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "290659864842"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu Ray Panasonic Exclusive Sealed Promo DTS-HD 5.1 Master"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "26.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "7"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "-2147483148"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-24T11:52:45.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smc5ACn355MwQ36-8qVhYJMA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "120845375724"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar Blu-Ray 3D Panasonic Exclusive Movie Brand New Sealed"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "80.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-24T12:15:28.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmTRKrb5snFcN629amftoz5g"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "170766323196"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3D Blu-ray Brand New Factory Sealed"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "26.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "8"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-24T17:32:24.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smeip7wxKlFhh3GztuS7jkiA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "220936324950"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D BLU-RAY~BRAND NEW~FACTORY SEALED IN SHRINK~PANASONIC PROMO EXCLUSIVE!!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "89.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "99.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-24T18:15:10.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm_JHQtAx3TZEDGP0Lw6ObpA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320831969924"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D Blu Ray (Original Panasonic Exclusive) - Like NEW"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "40.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "86.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-24T20:26:55.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Smnzp3FhNin5GcqoftqekADg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "150738091689"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "New RARE Avatar Blu-ray Blu Ray 3-D 3 D Panasonic Exclusive NOT SOLD IN STORES"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "199.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "199.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "-2147482303"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "268435456"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "-2147480098"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "268435456"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-22T16:26:56.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmuB9oGX7_insOHm5Wm1mtPA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "200697624093"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "New Avatar 3D Blu-Ray Panasonic Exclusive Factory Sealed New"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "105.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "105.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "1"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": [
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  },
+                  {
+                    "__attr__": {},
+                    "text": "0"
+                  }
+                ]
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-02-06T13:17:53.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm4Ih4QKzC5nfe3TenzzSiSA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320832354417"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar 3-d Blu Ray With Sony Blu Ray Player"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "150.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "300"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-25T12:33:27.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmQ-meY-Gw-I--dGgWe4aNdA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320832387656"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "James Cameron's AVATAR Exclusive Blu-Ray 3D **FACTORY SEALED**"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "85.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-25T13:20:30.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sm-_Y6j0vHctWYksalN84VFw"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "320832469688"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Avatar Blu-ray 3D"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "39.99"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "0.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "241"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-25T16:09:30.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sme85gcM76LwgS-iccLJrT7g"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "110811394468"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "FACTORY SEALED!!"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "31.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "95.0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "3"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-01-25T20:47:13.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "Sml7KjYSTL-Pw446Zcx9UrNw"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "__attr__": {},
+          "itemRecord": {
+            "__attr__": {},
+            "value": [
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "190629134325"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "AVATAR 3D BLU-RAY DISC Panasonic Exclusive, Factory Sealed Dolby Digital DTS-HD"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "104.95"
+                }
+              },
+              {
+                "__attr__": {},
+                "moneyValue": {
+                  "__attr__": {
+                    "currencyId": "USD"
+                  },
+                  "text": "104.95"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "longValue": {
+                  "__attr__": {},
+                  "text": "0"
+                }
+              },
+              {
+                "__attr__": {},
+                "dateValue": {
+                  "__attr__": {},
+                  "text": "2012-02-16T17:03:33.000-07:00"
+                }
+              },
+              {
+                "__attr__": {},
+                "stringValue": {
+                  "__attr__": {},
+                  "text": "SmDZ8RlMIjDvlEW3KUibzj2Q"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "dfnResponse": {
+        "__attr__": {},
+        "productTypeCoverage": {
+          "__attr__": {},
+          "name": {
+            "__attr__": {},
+            "text": "US_DVD_HD_DVD_Blu_ray"
+          },
+          "supplyScore": {
+            "__attr__": {},
+            "text": "108.0"
+          },
+          "demandScore": {
+            "__attr__": {},
+            "text": "100.0"
+          },
+          "aggregateScore": {
+            "__attr__": {},
+            "text": "90.24579692259518"
+          }
+        }
+      },
+      "queryTime": {
+        "__attr__": {},
+        "text": "157"
+      },
+      "executionTime": {
+        "__attr__": {},
+        "text": "204"
+      },
+      "backendTestResponse": {
+        "__attr__": {}
+      }
+    }
+  }
+}

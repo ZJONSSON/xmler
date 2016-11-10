@@ -1,0 +1,119 @@
+{
+  "__attr__": {
+    "type": "qemu"
+  },
+  "name": {
+    "__attr__": {},
+    "text": "QEmu-fedora-i686"
+  },
+  "uuid": {
+    "__attr__": {},
+    "text": "c7a5fdbd-cdaf-9455-926a-d65c16db1809"
+  },
+  "memory": {
+    "__attr__": {},
+    "text": "219200"
+  },
+  "currentMemory": {
+    "__attr__": {},
+    "text": "219200"
+  },
+  "vcpu": {
+    "__attr__": {},
+    "text": "2"
+  },
+  "os": {
+    "__attr__": {},
+    "type": {
+      "__attr__": {
+        "arch": "i686",
+        "machine": "pc"
+      },
+      "text": "hvm"
+    },
+    "boot": {
+      "__attr__": {
+        "dev": "cdrom"
+      }
+    }
+  },
+  "devices": {
+    "__attr__": {},
+    "emulator": {
+      "__attr__": {},
+      "text": "/usr/bin/qemu-system-x86_64"
+    },
+    "disk": [
+      {
+        "__attr__": {
+          "type": "file",
+          "device": "cdrom"
+        },
+        "source": {
+          "__attr__": {
+            "file": "/home/user/boot.iso"
+          }
+        },
+        "target": {
+          "__attr__": {
+            "dev": "hdc"
+          }
+        },
+        "readonly": {
+          "__attr__": {}
+        }
+      },
+      {
+        "__attr__": {
+          "type": "file",
+          "device": "disk"
+        },
+        "source": {
+          "__attr__": {
+            "file": "/home/user/fedora.img"
+          }
+        },
+        "target": {
+          "__attr__": {
+            "dev": "hda"
+          }
+        }
+      }
+    ],
+    "interface": {
+      "__attr__": {
+        "type": "network"
+      },
+      "source": {
+        "__attr__": {
+          "network": "default"
+        }
+      }
+    },
+    "graphics": {
+      "__attr__": {
+        "type": "vnc",
+        "port": "-1"
+      }
+    }
+  },
+  "ah": [
+    {
+      "__attr__": {
+        "type": "rare",
+        "foo": "bar"
+      },
+      "text": "cosa1"
+    },
+    {
+      "__attr__": {
+        "type": "normal"
+      },
+      "text": "cosa2"
+    },
+    {
+      "__attr__": {},
+      "text": "cosa3"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<xml>
+  <item>
+    <description>First</description>
+    <price>4.32</price>
+  </item>
+  <item>
+    <description>Second</description>
+    <price>5.73</price>
+  </item>
+  <rating>8.7</rating>
+
+  <other>
+    <stuff>
+      <item>
+        <description>Third</description>
+        <price>8.12</price>
+      </item>
+    </stuff>
+    <item>
+      <description>Fourth</description>
+      <price>1.12</price>
+      <item>
+        <description>Not picked up</description>
+        <price>8.12</price>
+      </item>
+    </item>
+  </other>
