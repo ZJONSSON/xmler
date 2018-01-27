@@ -10,13 +10,13 @@
   "author": "Ziggy Jonsson (ziggy.jonsson.nyc@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "node-expat": "^2.3.15"
+    "node-expat": "~2.3.16"
   },
   "devDependencies": {
-    "mocha": "~2.5.3",
+    "tap": "^11.0.1",
     "bluebird": "~3.5.1"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "tap test --jobs=10 -Rspec --coverage-report=html --no-browser"
   }
 }

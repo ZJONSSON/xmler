@@ -1,17 +1,20 @@
-var xmler = require('../index');
-var fs = require('fs');
-var path = require('path');
-var bufferStream = require('./bufferStream');
-var expected = require('./fixtures/domain.json');
-var assert = require('assert');
+const xmler = require('../index');
+const fs = require('fs');
+const path = require('path');
+const bufferStream = require('./bufferStream');
+const expected = require('./fixtures/domain.json');
 
-describe('domain',function() {
-  it('works',function() {   
-    return fs.createReadStream(path.join(__dirname,'fixtures','domain.xml'))
+module.exports = t => {
+  return t.test('domain', async t => {
+    const d = await fs.createReadStream(path.join(__dirname,'fixtures','domain.xml'))
       .pipe(xmler(0,{showAttr:true}))
       .pipe(bufferStream())
-      .then(function(d) {
-        assert.deepEqual(d[0].value,expected);
-      });
+      .promise();
+    
+    t.same(d[0].value,expected);
   });
-});
+};
+
+if (!module.parent) {
+  module.exports(require('tap'));
+}
