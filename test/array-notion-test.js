@@ -1,18 +1,20 @@
-var xmler = require('../index');
-var fs = require('fs');
-var path = require('path');
-var bufferStream = require('./bufferStream');
-var expected = require('./fixtures/array-notation.json');
-var assert = require('assert');
+const xmler = require('../index');
+const fs = require('fs');
+const path = require('path');
+const bufferStream = require('./bufferStream');
+const expected = require('./fixtures/array-notation.json');
 
-describe('array-notation',function() {
-  it('should work',function() {
-    
-    return fs.createReadStream(path.join(__dirname,'fixtures','array-notation.xml'))
+module.exports = t => {
+  t.test('array-notation', async t => {
+    const d = await fs.createReadStream(path.join(__dirname,'fixtures','array-notation.xml'))
       .pipe(xmler('abcd',{arrayNotation:true}))
       .pipe(bufferStream())
-      .then(function(d) {
-        assert.deepEqual(d[0].value,expected.abcd[0]);
-      });
+      .promise();
+    
+    t.same(d[0].value,expected.abcd[0]);
   });
-});
+};
+
+if (!module.parent) {
+  module.exports(require('tap'));
+}
