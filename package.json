@@ -17,6 +17,6 @@
     "bluebird": "~3.5.1"
   },
   "scripts": {
-    "test": "tap test --jobs=10 -Rspec --coverage-report=html --no-browser"
+    "test": "tap test --jobs=10"
   }
 }

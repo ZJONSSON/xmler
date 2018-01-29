@@ -1,6 +1,3 @@
 machine:
   node:
     version: 8
-test:
-  post:
-    - mv coverage/lcov-report $CIRCLE_ARTIFACTS/coverage
