@@ -1,3 +1,17 @@
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![Test Coverage][circle-image]][circle-url]
+[![Coverage][coverage-image]][coverage-url]
+
+[npm-image]: https://img.shields.io/npm/v/xmler.svg
+[npm-url]: https://npmjs.org/package/xmler
+[circle-image]: https://circleci.com/gh/ZJONSSON/xmler.png?style=shield
+[circle-url]: https://circleci.com/gh/ZJONSSON/xmler/tree/master
+[downloads-image]: https://img.shields.io/npm/dm/xmler.svg
+[downloads-url]: https://npmjs.org/package/xmler
+[coverage-image]: https://3tjjj5abqi.execute-api.us-east-1.amazonaws.com/prod/xmler/badge
+[coverage-url]: https://3tjjj5abqi.execute-api.us-east-1.amazonaws.com/prod/xmler/url
+
 Streaming XML->JS parser that extracts selected components from XML documents one-by-ony as they are found and pipes them downstream.  This method ensures a low memory footprint as neither the XML file nor the corresponding JSON have to be fully loaded into memory at any point in time.
 
 Usage:
