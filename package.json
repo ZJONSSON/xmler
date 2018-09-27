@@ -1,6 +1,6 @@
 {
   "name": "xmler",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "author": "Ziggy Jonsson (ziggy.jonsson.nyc@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "node-expat": "~2.3.16"
+    "node-expat": "~2.3.17"
   },
   "devDependencies": {
     "tap": "^11.0.1",

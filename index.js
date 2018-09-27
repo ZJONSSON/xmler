@@ -96,20 +96,27 @@ module.exports = function xmler(criteria,options) {
   });
 
   transform.on('text',e => {
-    e = e.toString().trim();
+    e = e.toString();
     if (!pointer || !e.length) {
       return;
     }
-    if (options.coerce) {
-      e = coerce(e,options.coerce[current.tag]);
-    }
-    pointer.text = e;
+   
+    pointer.text = (pointer.text || '') +e;
   });
 
-  transform.on('endElement', () => {
+  transform.on('endElement', el => {
     // We ignore any elements when not within root structure
     if (!pointer) {
       return;
+    }
+
+    if (typeof pointer.text === 'string') {
+      pointer.text = pointer.text.trim();
+      if (!pointer.text.length) {
+        delete pointer.text;
+      } else if (options.coerce) {
+        pointer.text = coerce(pointer.text, options.coerce[el.tag]);
+      }
     }
     
     if (depth === selected.depth) {
