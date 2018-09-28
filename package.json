@@ -13,7 +13,7 @@
     "node-expat": "~2.3.17"
   },
   "devDependencies": {
-    "tap": "^11.0.1",
+    "tap": "^12.0.1",
     "bluebird": "~3.5.1"
   },
   "scripts": {
